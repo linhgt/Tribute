@@ -6,11 +6,12 @@ body{
 .wrapper{
     background-color:lightgrey;
     padding:20px;
-    margin:10px;
+    margin-left: 200px;
+    margin-right:200px;
 }
 
 #picture-title{
-    width:50%;
+    width:90%;
     text-align: center;
     border:1px solid grey;
     margin:auto;
@@ -30,4 +31,8 @@ body{
     border:10px solid green;
     border-radius:50%;
     width:20vw;
+}
+
+.wrapper p{
+    text-align: justify;
 }
